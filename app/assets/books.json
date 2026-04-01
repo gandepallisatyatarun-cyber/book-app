@@ -4,6 +4,7 @@
       "image":"app/assets/images/Harry_Potter.webp",
       "name": "Harry Potter",
       "author": "J.K. Rowling",
+      "rating":5,
       "price": "$699"
     },
     { 
