@@ -1,62 +1,62 @@
 {
   "books": [
     {
-      "image":"app/assets/images/Harry_Potter.webp",
+      "image":"/app/assets/images/Harry_Potter.webp",
       "name": "Harry Potter",
       "author": "J.K. Rowling",
       "rating":5,
       "price": "$699"
     },
     { 
-      "image": "app/assets/images/Wings_of_Fire.webp",
+      "image":"/app/assets/images/Wings_of_Fire.webp",
       "name": "Wings of Fire",
       "author": "A.P.J Abdul Kalam",
       "price": "$499"
     },
     {
-      "image":"app/assets/images/The_Alchemist.webp",
+      "image":"/app/assets/images/The_Alchemist.webp",
       "name": "The Alchemist",
       "author": "Paulo Coelho",
       "price": "$399"
     },
     {
-      "image":"app/assets/images/Rich_Dad_Poor_Dad.webp",
+      "image":"/app/assets/images/Rich_Dad_Poor_Dad.webp",
       "name": "Rich Dad Poor Dad",
       "author": "Robert Kiyosaki",
       "price": "$599"
     },
     {
-      "image":"app/assets/images/Think_and_Grow_Rich.webp",
+      "image":"/app/assets/images/Think_and_Grow_Rich.webp",
       "name": "Think and Grow Rich",
       "author": "Napoleon Hill",
       "price": "$450"
     },
     {
-      "image":"app/assets/images/Atomic_Habits.webp",
+      "image":"/app/assets/images/Atomic_Habits.webp",
       "name": "Atomic Habits",
       "author": "James Clear",
       "price": "$650"
     },
     {
-      "image":"app/assets/images/The_Power_of_Now.webp",
+      "image":"/app/assets/images/The_Power_of_Now.webp",
       "name": "The Power of Now",
       "author": "Eckhart Tolle",
       "price": "$550"
     },
     {
-      "image":"app/assets/images/Ikigai.webp",
+      "image":"/app/assets/images/Ikigai.webp",
       "name": "Ikigai",
       "author": "Héctor García",
       "price": "$480"
     },
     {
-      "image":"app/assets/images/Do_Epic_Shit.webp",
+      "image":"/app/assets/images/Do_Epic_Shit.webp",
       "name": "Do Epic Shit",
       "author": "Ankur Warikoo",
       "price": "$520"
     },
     {
-      "image":"app/assets/images/Zero_to_One.webp",
+      "image":"/app/assets/images/Zero_to_One.webp",
       "name": "Zero to One",
       "author": "Peter Thiel",
       "price": "$600"
