@@ -1,70 +1,65 @@
 {
-    "books": [
-        {
-            "name": "Harry Potter and the Philosophers Stone",
-            "author": "JK Rowling",
-            "rating": 5,
-            "book_page": "app/assets/images/harry_potter_and_the_philosopher_stone.webp"
-        },
-        {
-            "name": "The Lord of the Rings",
-            "author": "J.R.R. Tolkien",
-            "rating": 5,
-            "book_page": "app/assets/images/the_lord_of_the_rings.webp"
-        },
-        {
-            "name": "To Kill a Mockingbird",
-            "author": "Harper Lee",
-            "rating": 5,
-            "book_page": "app/assets/images/to_kill_a_mockingbird.webp"
-        },
-        {
-            "name": "The Great Gatsby",
-            "author": "F. Scott Fitzgerald",
-            "rating": 4,
-            "book_page": "app/assets/images/the_great_gatsby.webp"
-        },
-        {
-            "name": "1984",
-            "author": "George Orwell",
-            "rating": 5,
-            "book_page": "app/assets/images/1984.webp"
-        },
-        {
-            "name": "The Hobbit",
-            "author": "J.R.R. Tolkien",
-            "rating": 5,
-            "book_page": "app/assets/images/the_hobbit.webp"
-        },
-        {
-            "name": "Pride and Prejudice",
-            "author": "Jane Austen",
-            "rating": 4,
-            "book_page": "app/assets/images/pride_and_prejudice.webp"
-        },
-        {
-            "name": "The Catcher in the Rye",
-            "author": "J.D. Salinger",
-            "rating": 4,
-            "book_page": "app/assets/images/the_catcher_in_the_rye.webp"
-        },
-        {
-            "name": "The Da Vinci Code",
-            "author": "Dan Brown",
-            "rating": 4,
-            "book_page": "app/assets/images/the_da_vinci_code.webp"
-        },
-        {
-            "name": "The Hunger Games",
-            "author": "Suzanne Collins",
-            "rating": 5,
-            "book_page": "app/assets/images/the_hunger_games.webp"
-        },
-        {
-            "name": "Dune",
-            "author": "Frank Herbert",
-            "rating": 5,
-            "book_page": "app/assets/images/dune.webp"
-        }
-    ]
+  "books": [
+    {
+      "image":"app/assets/images/Harry_Potter.webp",
+      "name": "Harry Potter",
+      "author": "J.K. Rowling",
+      "rating":5,
+      "price": "$699"
+    },
+    { 
+      "image":"app/assets/images/Wings_of_Fire.webp",
+      "name": "Wings of Fire",
+      "author": "A.P.J Abdul Kalam",
+      "price": "$499"
+    },
+    {
+      "image":"app/assets/images/The_Alchemist.webp",
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": "$399"
+    },
+    {
+      "image":"app/assets/images/Rich_Dad_Poor_Dad.webp",
+      "name": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": "$599"
+    },
+    {
+      "image":"app/assets/images/Think_and_Grow_Rich.webp",
+      "name": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "price": "$450"
+    },
+    {
+      "image":"app/assets/images/Atomic_Habits.webp",
+      "name": "Atomic Habits",
+      "author": "James Clear",
+      "price": "$650"
+    },
+    {
+      "image":"app/assets/images/The_Power_of_Now.webp",
+      "name": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "price": "$550"
+    },
+    {
+      "image":"app/assets/images/Ikigai.webp",
+      "name": "Ikigai",
+      "author": "Héctor García",
+      "price": "$480"
+    },
+    {
+      "image":"app/assets/images/Do_Epic_Shit.webp",
+      "name": "Do Epic Shit",
+      "author": "Ankur Warikoo",
+      "price": "$520"
+    },
+    {
+      "image":"app/assets/images/Zero_to_One.webp",
+      "name": "Zero to One",
+      "author": "Peter Thiel",
+      "price": "$600"
+    }
+  ]
 }

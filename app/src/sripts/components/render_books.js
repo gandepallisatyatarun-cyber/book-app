@@ -1,7 +1,7 @@
 import { html, render } from 'https://cdn.jsdelivr.net/npm/lit-html@3.3.2/+esm';
 
 async function loadBooks() {
-    const response = await fetch("assets/books.json");
+    const response = await fetch("app/assets/books.json");
 
     console.log(response); // check status
 

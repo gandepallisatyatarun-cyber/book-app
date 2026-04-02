@@ -72,7 +72,7 @@ export class Book extends LitElement {
         this.name = "sample_book_name";
         this.author = "sample_author_name";
         this.rating = "2"
-        this.image = "/app/assets/images/Harry_Potter.webp";
+        this.image = "app/assets/images/Harry_Potter.webp";
     }
     get start() {
      return Array.from({ length: 5 }, (_, i) =>
